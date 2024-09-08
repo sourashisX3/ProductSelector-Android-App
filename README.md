@@ -28,3 +28,8 @@ Adding product categories for better organization.
 Implementing order history and tracking features.
 
 Enhancing the user interface with more interactive design elements.
+# UI Design
+![Product selector _20240907_140850_0000](https://github.com/user-attachments/assets/30424b8b-8c96-4b6f-8947-1dfef962d88f)
+![Product selector _20240907_140851_0001](https://github.com/user-attachments/assets/2850c381-f484-4ad8-837a-582d9dfa6605)
+![Product selector _20240907_140851_0002](https://github.com/user-attachments/assets/5b3739a3-b97b-4fab-9b03-c9adaafdb508)
+![Product selector _20240907_140851_0003](https://github.com/user-attachments/assets/23d08881-eecf-4b29-b6cf-8faa6f5ec5ba)
